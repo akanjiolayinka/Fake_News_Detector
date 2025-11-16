@@ -1,9 +1,0 @@
-streamlit
-joblib
-pandas
-scikit-learn
-numpy
-regex
-streamlit
-matplotlib
-seaborn
